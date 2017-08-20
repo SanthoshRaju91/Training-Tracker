@@ -2,7 +2,7 @@ var sserver = require('static-server');
 
 var server = new sserver({
     rootPath: '.',            
-    port: 5000,             
+    port: process.env.PORT || 5000,             
     host: '0.0.0.0',      
     followSymlink: true,     
     templates: {
