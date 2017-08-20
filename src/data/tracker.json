@@ -1,0 +1,64 @@
+[
+    {
+        "id": 0,
+        "day": "Day 1",
+        "progress": "pending",
+        "title": "Intro to React",
+        "desc": "We will dive into React and start from the base, which we tend to then undeerstand 'What is React under the hood ?'. And we will talk about the features of React.",
+        "contents": [
+            "React in basics",
+            "React Paradigm",
+            "Props in React",
+            "Managing States",
+            "PropTypes",
+            "Styled Components"
+        ]
+    },
+
+    {
+        "id": 1,
+        "day": "Day 2",
+        "progress": "pending",
+        "title": "React Router & Ajax with React",
+        "desc": "We will learn how routing works in React, its routing machinism and its best routing technique. We will also learn how we integrate React with a REST end point serving us data.",
+        "contents": [
+            "Getting Started",
+            "Hash Router",
+            "Browser Router",
+            "Fetching data from backend"
+        ]
+    },
+
+    {
+        "id": 2,
+        "day": "Day 3",
+        "progress": "pending",
+        "title": "Hackathon",
+        "desc": "We will summarize what we have learnt, and build some components live. So we can collaborate and learn if anything new comes up. And this holds you points to win a prize",
+        "contents": []
+    },
+
+    {
+        "id": 3,
+        "day": "Day 4",
+        "progress": "pending",
+        "title": "Redux",
+        "desc": "We will understand why we need Redux ?, Redux pattern, When to use Redux ?, Redux with thunk to fetch data from backend and explore a bit about Redux middlewares.",
+        "contents": [
+            "Intro to Redux",
+            "Is Redux really necessary",
+            "React & Redux as friends",
+            "Redux thunk",
+            "Redux middlewares"
+        ]
+    },
+
+    {
+        "id": 4,
+        "day": "Day 5",
+        "progress": "pending",
+        "title": "Lets hackathon",
+        "desc": "Final session of the React training, we will summarize everything we have learnt, have Q and A session, have team members talk if they have something interesting they found and finally have our final hackathon",
+        "contents": []
+    }
+]
