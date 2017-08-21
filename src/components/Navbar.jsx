@@ -44,7 +44,7 @@ const Wrapper = styled.nav`
 
 const Navbar = (props) => {
     return (
-        <Wrapper className="navbar navbar-toggleable-md navbar-light bg-faded">
+        <Wrapper className="navbar fixed-top navbar-toggleable-md navbar-light bg-faded">
             <div className="">
                 <Link to="/" className="navbar-brand">React Training Tracker</Link>
             </div>
